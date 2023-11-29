@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "descricao": "Street Fighter",
+      "foto": "jogo1.PNG",
+      "preco": 500
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "descricao": "Super Mario Bros.",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "descricao": "Super Mario 3D World",
+      "foto": "jogo3.PNG",
+      "preco": 255
+    },
+    {
+      "id": 4,
+      "produto": "Jogo 4",
+      "descricao": "Sonic",
+      "foto": "jogo4.PNG",
+      "preco": 540
+    }
+  ]
+}
