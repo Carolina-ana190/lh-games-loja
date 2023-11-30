@@ -54,6 +54,11 @@ mat-card-actions{
     height: 300px;
     width: 300px;
   }
+  mat-card-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
 
 
